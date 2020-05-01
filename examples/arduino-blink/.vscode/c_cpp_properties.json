@@ -216,7 +216,7 @@
                 "ARDUINO=10805",
                 "ARDUINO_ARCH_ESP32",
                 "ARDUINO_VARIANT=\"esp32\"",
-                "ARDUINO_BOARD=\"Espressif ESP-WROVER-KIT\"",
+                "ARDUINO_BOARD=\"Espressif ESP32 Dev Module\"",
                 ""
             ],
             "intelliSenseMode": "clang-x64",
